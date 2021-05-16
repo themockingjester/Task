@@ -8,4 +8,15 @@ https://drive.google.com/file/d/1yHhoIqy02ALfcjj2ZbM3o2tklgcDAq0F/view?usp=shari
 
 Here are the screenshots:
 
-![alt text](https://drive.google.com/file/d/12EgOJuT0592ZHb_C5MvSkFxAbS8tjD2C/view?usp=sharing)
+home screen
+![Image of home](https://github.com/themockingjester/Task/blob/main/first.jpg)
+navigation bar
+![Image of navbar](https://github.com/themockingjester/Task/blob/main/second.jpg)
+videos screen
+![Image of videos](https://github.com/themockingjester/Task/blob/main/third.jpg)
+profile screen
+![Image of profile](https://github.com/themockingjester/Task/blob/main/fourth.jpg)
+
+
+
+
